@@ -1,5 +1,5 @@
-# Rules
-The rules for software development with the Blue Crew Robotics Team
+# Guidelines
+The guidelines for software development with the Blue Crew Robotics Team
 
 ### Important rules:
   - When reviewing someones code be respectful
