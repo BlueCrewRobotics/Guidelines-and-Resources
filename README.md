@@ -16,4 +16,4 @@ The guidelines for software development with the Blue Crew Robotics Team
   - NEVER GIVE A VARIABLE A SINGLE LETTER NAME
   
 
-  
+For more information consult the wiki.
