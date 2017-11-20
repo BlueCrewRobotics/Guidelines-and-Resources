@@ -19,17 +19,17 @@ The guidelines for software development with the Blue Crew Robotics Team
 For more information consult the wiki.
 
 
-Resources:
+### Resources:
 
-  python reference site:
+  #### python reference site:
   
       https://www.python.org/doc/
       
-  RobotPy:
+  #### RobotPy:
   
       http://robotpy.readthedocs.io/projects/wpilib/en/latest/index.html
   
-  Updating RoboRio:
+  #### Updating RoboRio:
   
       http://wpilib.screenstepslive.com/s/4485/m/24193/l/273817-updating-your-roborio-firmware
       
